@@ -9,6 +9,9 @@ body{
     flex-wrap: wrap;
     justify-content: center;
 }
+.p{
+    text-align: center;
+}
 .nav{
     padding: 10px;
     height: 30px;
